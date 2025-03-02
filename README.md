@@ -1,1 +1,1 @@
-# lambda-scan-s3-bucket
+# Lambda script meant to scan new file in specific S3 bucket when the file is uploaded to it. Details such a Content Type (.png, .docx, etc) will be outputed to CloudWatch.
